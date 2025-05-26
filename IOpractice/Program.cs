@@ -10,6 +10,8 @@ namespace IOpractice
     {
         static void Main(string[] args)
         {
+            CipherData.FileWrite(CipherData.CipherdedMessage("What the hell just happened."));
+            ReadCipheredFile.ReadFile("C:/Users/Yisroel Meir/Desktop/IOpractice.txt");
         }
     }
 }

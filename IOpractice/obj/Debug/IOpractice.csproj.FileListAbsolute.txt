@@ -1,0 +1,7 @@
+C:\Users\Yisroel Meir\source\repos\IOpractice\IOpractice\bin\Debug\IOpractice.exe.config
+C:\Users\Yisroel Meir\source\repos\IOpractice\IOpractice\bin\Debug\IOpractice.exe
+C:\Users\Yisroel Meir\source\repos\IOpractice\IOpractice\bin\Debug\IOpractice.pdb
+C:\Users\Yisroel Meir\source\repos\IOpractice\IOpractice\obj\Debug\IOpractice.csproj.AssemblyReference.cache
+C:\Users\Yisroel Meir\source\repos\IOpractice\IOpractice\obj\Debug\IOpractice.csproj.CoreCompileInputs.cache
+C:\Users\Yisroel Meir\source\repos\IOpractice\IOpractice\obj\Debug\IOpractice.exe
+C:\Users\Yisroel Meir\source\repos\IOpractice\IOpractice\obj\Debug\IOpractice.pdb
